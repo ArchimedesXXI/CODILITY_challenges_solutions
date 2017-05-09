@@ -1,0 +1,6 @@
+C:\__Marc-personal\_C#-my_source_code\CODILITY_exercises_-_all_new\Codility_lesson_3_3\bin\Debug\Codility_lesson_3_3.exe.config
+C:\__Marc-personal\_C#-my_source_code\CODILITY_exercises_-_all_new\Codility_lesson_3_3\bin\Debug\Codility_lesson_3_3.exe
+C:\__Marc-personal\_C#-my_source_code\CODILITY_exercises_-_all_new\Codility_lesson_3_3\bin\Debug\Codility_lesson_3_3.pdb
+C:\__Marc-personal\_C#-my_source_code\CODILITY_exercises_-_all_new\Codility_lesson_3_3\obj\Debug\Codility_lesson_3_3.csprojResolveAssemblyReference.cache
+C:\__Marc-personal\_C#-my_source_code\CODILITY_exercises_-_all_new\Codility_lesson_3_3\obj\Debug\Codility_lesson_3_3.exe
+C:\__Marc-personal\_C#-my_source_code\CODILITY_exercises_-_all_new\Codility_lesson_3_3\obj\Debug\Codility_lesson_3_3.pdb
