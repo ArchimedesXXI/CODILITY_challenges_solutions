@@ -43,6 +43,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codility_lesson_7_2", "Codi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codility_lesson_7_4", "Codility_lesson_7_4\Codility_lesson_7_4.csproj", "{B83EBFF3-AC9E-4017-AC68-2888F82A2F8A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codility_lesson_8_1", "Codility_lesson_8_1\Codility_lesson_8_1.csproj", "{866D671C-DC53-4631-A49C-8449FC7921EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codility_lesson_8_2", "Codility_lesson_8_2\Codility_lesson_8_2.csproj", "{8CED2CB9-755A-481B-8BB4-63582330B0EA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +133,14 @@ Global
 		{B83EBFF3-AC9E-4017-AC68-2888F82A2F8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B83EBFF3-AC9E-4017-AC68-2888F82A2F8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B83EBFF3-AC9E-4017-AC68-2888F82A2F8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{866D671C-DC53-4631-A49C-8449FC7921EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{866D671C-DC53-4631-A49C-8449FC7921EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{866D671C-DC53-4631-A49C-8449FC7921EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{866D671C-DC53-4631-A49C-8449FC7921EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CED2CB9-755A-481B-8BB4-63582330B0EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CED2CB9-755A-481B-8BB4-63582330B0EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CED2CB9-755A-481B-8BB4-63582330B0EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CED2CB9-755A-481B-8BB4-63582330B0EA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
