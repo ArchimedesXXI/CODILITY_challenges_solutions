@@ -4,3 +4,6 @@ C:\__Marc-personal\_C#-my_source_code\CODILITY_exercises_-_all_new\Codility_less
 C:\__Marc-personal\_C#-my_source_code\CODILITY_exercises_-_all_new\Codility_lesson_8_1\bin\Debug\Codility_lesson_8_1.pdb
 C:\__Marc-personal\_C#-my_source_code\CODILITY_exercises_-_all_new\Codility_lesson_8_1\obj\Debug\Codility_lesson_8_1.exe
 C:\__Marc-personal\_C#-my_source_code\CODILITY_exercises_-_all_new\Codility_lesson_8_1\obj\Debug\Codility_lesson_8_1.pdb
+C:\__MY_STUFF\_Comp_Engineering\C#-my_source_code\CODILITY_exercises_-_all_new\Codility_lesson_8_1\bin\Debug\Codility_lesson_8_1.exe.config
+C:\__MY_STUFF\_Comp_Engineering\C#-my_source_code\CODILITY_exercises_-_all_new\Codility_lesson_8_1\obj\Debug\Codility_lesson_8_1.exe
+C:\__MY_STUFF\_Comp_Engineering\C#-my_source_code\CODILITY_exercises_-_all_new\Codility_lesson_8_1\obj\Debug\Codility_lesson_8_1.pdb
